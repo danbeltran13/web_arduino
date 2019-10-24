@@ -12,3 +12,5 @@ Create a serial connection with python that depends on the input from the flask
 Step 3,
 Connect the python serial connection to arduino
 
+Sources -------
+https://www.instructables.com/id/Controlling-Arduino-with-python-based-web-API-No-p/ 

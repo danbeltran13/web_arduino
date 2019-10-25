@@ -1,5 +1,6 @@
 import serial
 
+
 COM_PORT = 'COM4'
 BAUD_RATE = 9600
 TIME_OUT = .1

@@ -15,3 +15,6 @@ have the serial connection in python
 Sources -------
 https://www.instructables.com/id/Controlling-Arduino-with-python-based-web-API-No-p/ 
 https://www.instructables.com/id/Arduino-Python-Communication-via-USB/
+
+Using flask tutorial 
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world 
